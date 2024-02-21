@@ -1,3 +1,7 @@
+Unity Version 2022.3.10f1
+
+Graphical API <DX11>
+
 # UnityPatterns
 #En
 
